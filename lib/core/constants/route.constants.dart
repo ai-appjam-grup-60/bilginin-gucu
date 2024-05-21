@@ -1,0 +1,10 @@
+const String authControlRoute = '/auth_control';
+const String chatBotRoute = '/chat_bot';
+const String discussionListRoute = '/discussion_list';
+const String homeRoute = '/home';
+const String videoPageRoute = "/video_page";
+const String videoListRoute = "/video_list";
+const String signInRoute = '/sign_in';
+const String signUpRoute = '/sign_up';
+const String splashRoute = '/splash';
+const String bottomNavigationRoute = '/bottom_navigation';

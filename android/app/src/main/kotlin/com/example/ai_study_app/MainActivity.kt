@@ -1,4 +1,4 @@
-package com.example.ai_app_jam
+package com.example.ai_study_app
 
 import io.flutter.embedding.android.FlutterActivity
 

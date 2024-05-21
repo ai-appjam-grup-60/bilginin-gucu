@@ -1,3 +1,3 @@
-# ai_app_jam
+# ai_study_app
 
 A new Flutter project.
